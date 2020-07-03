@@ -1,6 +1,6 @@
 # Tagger - Smarter Email
 
-You can find the project at [Tagger](https://tagger-lab.netlify.com/).
+### You can find the project at [Tagger](https://tagger-lab.netlify.com/).
 
 ### You can find the Backend Repository at [Tagger-BackEnd](https://github.com/natemosco/tagger-be)
 
